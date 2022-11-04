@@ -1,6 +1,6 @@
-# Insertion-Sort-
+# Insertion-Sort-project
 
-www.patika.dev 
+https://app.patika.dev/barborost
 
 Insertion-Sort projesi sorularının cevapları
 
